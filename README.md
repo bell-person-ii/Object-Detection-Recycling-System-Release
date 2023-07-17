@@ -1,1 +1,1 @@
-# OSS_PROJECT_FINAL_DOCKER
+# Object Detection Recycling System release files.
